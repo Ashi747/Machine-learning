@@ -1,1 +1,1 @@
-
+The dataset for the landmark detection is obatinet from the shape_predictor_68_face_landmarks.dat file. we can downlod this and can import the file for the execution.
